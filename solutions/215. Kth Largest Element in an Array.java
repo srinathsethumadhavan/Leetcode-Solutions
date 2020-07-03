@@ -9,3 +9,5 @@ class Solution {
         return q.peek();
         }
 }
+
+//minimum priority queue always removes the minimum elelemnt 
