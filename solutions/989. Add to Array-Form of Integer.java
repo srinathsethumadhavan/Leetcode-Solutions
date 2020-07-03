@@ -2,21 +2,17 @@ class Solution {
     public List<Integer> addToArrayForm(int[] A, int k) {
      
         int n=0;
-        int count=0;
         int K=k;
-         while(K>0){
-             count++;
-          K/=10;
-      }
+       int count= new String(k+"").length();
         int [] B = new int[count];
-        int l=Math.max(A.length,B.length)+1;
+        int l=Math.max(A.length,B.length);
         
         List<Integer> list= new ArrayList<>();
         while(k>0){
           B[n++]= k%10;
           k/=10;
       }
-      int e=0;
+         int e=0;
         int f=B.length-1;
         while(e<f)
         {
@@ -26,7 +22,7 @@ class Solution {
             e++;
             f--;
         }
-         System.out.println(Arrays.toString(B));
+        
         int i=A.length-1;
          int j=B.length-1;
         int sum=0;
@@ -38,15 +34,12 @@ class Solution {
                 sum+=A[i--];
             if(j>=0)
                 sum+=B[j--];
-            list.add(sum%10);
+            list.add(0,sum%10);
             carry=sum/10;
-            
             
         }
         if(carry>0)
-           list.add(carry);
-            Collections.reverse(list);
-            
+           list.add(0,carry);       
   return list;
     }
 }
