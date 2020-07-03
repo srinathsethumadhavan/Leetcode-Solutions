@@ -9,7 +9,7 @@ class Solution {
             {
                 
                 count++;
-                if( (i - 2 < 0) || nums[i-2] <= nums[i] )
+                if( (i ==1) || nums[i-2] <= nums[i] )
                 {
                     nums[i-1] = nums[i];
                 }
@@ -28,3 +28,7 @@ class Solution {
         return count<=1;
     }
 }
+
+
+//[4,6,3]
+//[4,5,3]
