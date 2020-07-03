@@ -6,6 +6,7 @@
 |2|[ Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Java](./solutions/2.%20Add%20Two%20Numbers.java)|68 ms|
 |16|[ 3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Java](./solutions/16.%203Sum%20Closest.java)|6 ms|
 |18|[ 4Sum](https://leetcode.com/problems/4sum/)|[Java](./solutions/18.%204Sum.java)|26 ms|
+|53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./solutions/53.%20Maximum%20Subarray.java)|1 ms|
 |54|[ Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](./solutions/54.%20Spiral%20Matrix.java)|0 ms|
 |67|[ Add Binary](https://leetcode.com/problems/add-binary/)|[Java](./solutions/67.%20Add%20Binary.java)|2 ms|
 |74|[ Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](./solutions/74.%20Search%20a%202D%20Matrix.java)|0 ms|
