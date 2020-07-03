@@ -15,6 +15,7 @@
 |389|[ Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Java](./solutions/389.%20Find%20the%20Difference.java)|2 ms|
 |415|[ Add Strings](https://leetcode.com/problems/add-strings/)|[Java](./solutions/415.%20Add%20Strings.java)|3 ms|
 |821|[ Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Java](./solutions/821.%20Shortest%20Distance%20to%20a%20Character.java)|1 ms|
+|918|[ Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[Java](./solutions/918.%20Maximum%20Sum%20Circular%20Subarray.java)|2 ms|
 |989|[ Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Java](./solutions/989.%20Add%20to%20Array-Form%20of%20Integer.java)|48 ms|
 |1295|[ Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Java](./solutions/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.java)|3 ms|
 |1313|[ Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Java](./solutions/1313.%20Decompress%20Run-Length%20Encoded%20List.java)|3 ms|
