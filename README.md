@@ -3,6 +3,7 @@
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|[Java](./solutions/1.%20Two%20Sum.java)|5 ms|
+|18|[ 4Sum](https://leetcode.com/problems/4sum/)|[Java](./solutions/18.%204Sum.java)|26 ms|
 |167|[ Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Java](./solutions/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.java)|1 ms|
 |1295|[ Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Java](./solutions/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.java)|3 ms|
 |1313|[ Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Java](./solutions/1313.%20Decompress%20Run-Length%20Encoded%20List.java)|3 ms|
