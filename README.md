@@ -26,6 +26,7 @@
 |665|[ Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Java](./solutions/665.%20Non-decreasing%20Array.java)|1 ms|
 |821|[ Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Java](./solutions/821.%20Shortest%20Distance%20to%20a%20Character.java)|1 ms|
 |859|[ Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[Java](./solutions/859.%20Buddy%20Strings.java)|8 ms|
+|888|[ Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)|[Java](./solutions/888.%20Fair%20Candy%20Swap.java)|15 ms|
 |918|[ Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[Java](./solutions/918.%20Maximum%20Sum%20Circular%20Subarray.java)|2 ms|
 |989|[ Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Java](./solutions/989.%20Add%20to%20Array-Form%20of%20Integer.java)|48 ms|
 |1010|[ Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Java](./solutions/1010.%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.java)|22 ms|
