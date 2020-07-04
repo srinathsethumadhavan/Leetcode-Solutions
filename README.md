@@ -10,6 +10,7 @@
 |26|[ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](./solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array.java)|1 ms|
 |34|[ Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Java](./solutions/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java)|0 ms|
 |43|[ Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Java](./solutions/43.%20Multiply%20Strings.java)|3 ms|
+|48|[ Rotate Image](https://leetcode.com/problems/rotate-image/)|[Java](./solutions/48.%20Rotate%20Image.java)|0 ms|
 |53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./solutions/53.%20Maximum%20Subarray.java)|1 ms|
 |54|[ Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](./solutions/54.%20Spiral%20Matrix.java)|0 ms|
 |67|[ Add Binary](https://leetcode.com/problems/add-binary/)|[Java](./solutions/67.%20Add%20Binary.java)|2 ms|
