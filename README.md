@@ -38,7 +38,7 @@
 |1389|[ Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[Java](./solutions/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order.java)|0 ms|
 |1395|[ Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)|[Java](./solutions/1395.%20Count%20Number%20of%20Teams.java)|15 ms|
 |1431|[ Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Java](./solutions/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.java)|1 ms|
-|1436|[ Destination City](https://leetcode.com/problems/destination-city/)|[Java](./solutions/1436.%20Destination%20City.java)|4 ms|
+|1436|[ Destination City](https://leetcode.com/problems/destination-city/)|[Java](./solutions/1436.%20Destination%20City.java)|2 ms|
 |1450|[ Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)|[Java](./solutions/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time.java)|0 ms|
 |1464|[ Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[Java](./solutions/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.java)|1 ms|
 |1470|[ Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Java](./solutions/1470.%20Shuffle%20the%20Array.java)|0 ms|
