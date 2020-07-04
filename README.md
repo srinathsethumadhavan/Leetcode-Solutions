@@ -4,6 +4,7 @@
 |---| ----- | -------- | ------- |
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|[Java](./solutions/1.%20Two%20Sum.java)|5 ms|
 |2|[ Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Java](./solutions/2.%20Add%20Two%20Numbers.java)|68 ms|
+|8|[ String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Java](./solutions/8.%20String%20to%20Integer%20(atoi).java)|2 ms|
 |16|[ 3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Java](./solutions/16.%203Sum%20Closest.java)|6 ms|
 |18|[ 4Sum](https://leetcode.com/problems/4sum/)|[Java](./solutions/18.%204Sum.java)|26 ms|
 |26|[ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](./solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array.java)|1 ms|
