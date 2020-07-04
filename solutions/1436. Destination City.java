@@ -6,3 +6,6 @@ class Solution {
         return set.iterator().next();    
     }
 }
+
+
+//set differnece between destination cites and start cities
