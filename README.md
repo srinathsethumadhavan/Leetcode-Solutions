@@ -17,6 +17,7 @@
 |74|[ Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](./solutions/74.%20Search%20a%202D%20Matrix.java)|0 ms|
 |80|[ Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Java](./solutions/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.java)|1 ms|
 |125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](./solutions/125.%20Valid%20Palindrome.java)|5 ms|
+|155|[ Min Stack](https://leetcode.com/problems/min-stack/)|[Java](./solutions/155.%20Min%20Stack.java)|11 ms|
 |167|[ Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Java](./solutions/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.java)|1 ms|
 |204|[ Count Primes](https://leetcode.com/problems/count-primes/)|[Java](./solutions/204.%20Count%20Primes.java)|18 ms|
 |205|[ Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Java](./solutions/205.%20Isomorphic%20Strings.java)|10 ms|
