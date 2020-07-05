@@ -16,7 +16,7 @@ class Solution {
                     break;
                 }
             }
-            if(flag==1 && j<n)               
+            if(flag==1)               
                 discount[i]=prices[i]-prices[j];
             
             else if(flag==0)
