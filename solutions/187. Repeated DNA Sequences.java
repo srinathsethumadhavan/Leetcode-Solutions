@@ -19,4 +19,4 @@ class Solution {
     }
 }
 
- 
+ //we put map.get(str)==2 beacuse we do not wan tot ad the sequqnce repeateldy to the list;
