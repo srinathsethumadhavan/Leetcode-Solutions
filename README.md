@@ -49,6 +49,7 @@
 |1450|[ Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)|[Java](./solutions/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time.java)|0 ms|
 |1464|[ Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[Java](./solutions/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.java)|1 ms|
 |1470|[ Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Java](./solutions/1470.%20Shuffle%20the%20Array.java)|0 ms|
+|1475|[ Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)|[Java](./solutions/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.java)|3 ms|
 |1480|[ Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Java](./solutions/1480.%20Running%20Sum%20of%201d%20Array.java)|0 ms|
 |1486|[ XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Java](./solutions/1486.%20XOR%20Operation%20in%20an%20Array.java)|0 ms|
 |1496|[ Path Crossing](https://leetcode.com/problems/path-crossing/)|[Java](./solutions/1496.%20Path%20Crossing.java)|6 ms|
