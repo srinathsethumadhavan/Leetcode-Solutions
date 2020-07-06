@@ -31,8 +31,9 @@ class Solution {
             sb.append(l1.get(idx));
             sb.append(l2.get(idx++));
         }
-        while (idx < l1.size()) {
-            sb.append(l1.get(idx++));
+        //if character count and digit count are same the below while loop will not execute
+       while (idx < l1.size()) {
+           sb.append(l1.get(idx++));
         }
         return sb.toString();
     }
