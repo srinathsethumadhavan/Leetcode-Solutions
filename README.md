@@ -32,6 +32,7 @@
 |557|[ Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Java](./solutions/557.%20Reverse%20Words%20in%20a%20String%20III.java)|4 ms|
 |665|[ Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Java](./solutions/665.%20Non-decreasing%20Array.java)|1 ms|
 |744|[ Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Java](./solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.java)|0 ms|
+|804|[ Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Java](./solutions/804.%20Unique%20Morse%20Code%20Words.java)|6 ms|
 |821|[ Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Java](./solutions/821.%20Shortest%20Distance%20to%20a%20Character.java)|1 ms|
 |844|[ Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Java](./solutions/844.%20Backspace%20String%20Compare.java)|4 ms|
 |859|[ Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[Java](./solutions/859.%20Buddy%20Strings.java)|8 ms|
