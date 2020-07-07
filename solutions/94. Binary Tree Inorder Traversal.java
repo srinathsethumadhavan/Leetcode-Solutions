@@ -22,15 +22,12 @@ class Solution {
     }
         void inorderUtil (TreeNode root, ArrayList<Integer> res)
     {
-        // base case
-       if(root == null){
-           return;
-       }        
-        // recurse for left child
+        
+       if(root != null){
         inorderUtil(root.left, res);
         res.add (root.val);
-        // recurse for right child
         inorderUtil(root.right, res);
     }
+        }
        
 }
