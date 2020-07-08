@@ -38,6 +38,7 @@
 |448|[ Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Java](./solutions/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.java)|37 ms|
 |482|[ License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[Java](./solutions/482.%20License%20Key%20Formatting.java)|94 ms|
 |520|[ Detect Capital](https://leetcode.com/problems/detect-capital/)|[Java](./solutions/520.%20Detect%20Capital.java)|2 ms|
+|543|[ Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Java](./solutions/543.%20Diameter%20of%20Binary%20Tree.java)|10 ms|
 |557|[ Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Java](./solutions/557.%20Reverse%20Words%20in%20a%20String%20III.java)|4 ms|
 |606|[ Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[Java](./solutions/606.%20Construct%20String%20from%20Binary%20Tree.java)|40 ms|
 |657|[ Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Java](./solutions/657.%20Robot%20Return%20to%20Origin.java)|9 ms|
