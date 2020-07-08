@@ -4,10 +4,8 @@ class Solution {
        Map<Integer,Integer> map = new HashMap<>();
         Integer[] B = new Integer[A.length];
         for(int i: A)
-        {  map.put(i,map.getOrDefault(i,0)+1);
-        
-        }
-                for (int i = 0; i < A.length; ++i)
+      map.put(i,map.getOrDefault(i,0)+1);
+        for (int i = 0; i < A.length; ++i)
 
         B[i]=A[i];
         Arrays.sort(B,Comparator.comparingInt(Math::abs));
