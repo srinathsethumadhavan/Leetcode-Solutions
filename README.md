@@ -48,6 +48,7 @@
 |606|[ Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[Java](./solutions/606.%20Construct%20String%20from%20Binary%20Tree.java)|40 ms|
 |657|[ Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Java](./solutions/657.%20Robot%20Return%20to%20Origin.java)|9 ms|
 |665|[ Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Java](./solutions/665.%20Non-decreasing%20Array.java)|1 ms|
+|701|[ Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Java](./solutions/701.%20Insert%20into%20a%20Binary%20Search%20Tree.java)|0 ms|
 |744|[ Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Java](./solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.java)|0 ms|
 |804|[ Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Java](./solutions/804.%20Unique%20Morse%20Code%20Words.java)|4 ms|
 |821|[ Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Java](./solutions/821.%20Shortest%20Distance%20to%20a%20Character.java)|1 ms|
