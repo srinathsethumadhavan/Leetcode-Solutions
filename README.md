@@ -31,6 +31,7 @@
 |204|[ Count Primes](https://leetcode.com/problems/count-primes/)|[Java](./solutions/204.%20Count%20Primes.java)|18 ms|
 |205|[ Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Java](./solutions/205.%20Isomorphic%20Strings.java)|10 ms|
 |215|[ Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Java](./solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.java)|5 ms|
+|236|[ Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Java](./solutions/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.java)|7 ms|
 |283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](./solutions/283.%20Move%20Zeroes.java)|0 ms|
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[Java](./solutions/344.%20Reverse%20String.java)|0 ms|
 |389|[ Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Java](./solutions/389.%20Find%20the%20Difference.java)|2 ms|
