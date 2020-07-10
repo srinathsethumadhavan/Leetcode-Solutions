@@ -56,6 +56,7 @@
 |821|[ Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Java](./solutions/821.%20Shortest%20Distance%20to%20a%20Character.java)|1 ms|
 |844|[ Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Java](./solutions/844.%20Backspace%20String%20Compare.java)|4 ms|
 |859|[ Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[Java](./solutions/859.%20Buddy%20Strings.java)|8 ms|
+|885|[ Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)|[Java](./solutions/885.%20Spiral%20Matrix%20III.java)|4 ms|
 |888|[ Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)|[Java](./solutions/888.%20Fair%20Candy%20Swap.java)|15 ms|
 |908|[ Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[Java](./solutions/908.%20Smallest%20Range%20I.java)|2 ms|
 |918|[ Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[Java](./solutions/918.%20Maximum%20Sum%20Circular%20Subarray.java)|2 ms|
