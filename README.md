@@ -50,6 +50,7 @@
 |557|[ Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Java](./solutions/557.%20Reverse%20Words%20in%20a%20String%20III.java)|4 ms|
 |565|[ Array Nesting](https://leetcode.com/problems/array-nesting/)|[Java](./solutions/565.%20Array%20Nesting.java)|3 ms|
 |606|[ Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[Java](./solutions/606.%20Construct%20String%20from%20Binary%20Tree.java)|40 ms|
+|643|[ Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[Java](./solutions/643.%20Maximum%20Average%20Subarray%20I.java)|2 ms|
 |657|[ Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Java](./solutions/657.%20Robot%20Return%20to%20Origin.java)|9 ms|
 |665|[ Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Java](./solutions/665.%20Non-decreasing%20Array.java)|1 ms|
 |701|[ Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Java](./solutions/701.%20Insert%20into%20a%20Binary%20Search%20Tree.java)|0 ms|
