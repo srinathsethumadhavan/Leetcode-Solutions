@@ -83,6 +83,7 @@
 |1347|[ Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)|[Java](./solutions/1347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.java)|13 ms|
 |1351|[ Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Java](./solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.java)|1 ms|
 |1365|[ How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Java](./solutions/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.java)|16 ms|
+|1370|[ Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|[Java](./solutions/1370.%20Increasing%20Decreasing%20String.java)|2 ms|
 |1389|[ Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[Java](./solutions/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order.java)|0 ms|
 |1395|[ Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)|[Java](./solutions/1395.%20Count%20Number%20of%20Teams.java)|15 ms|
 |1399|[ Count Largest Group](https://leetcode.com/problems/count-largest-group/)|[Java](./solutions/1399.%20Count%20Largest%20Group.java)|16 ms|
