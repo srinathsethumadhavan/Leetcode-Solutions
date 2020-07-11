@@ -4,6 +4,8 @@ public class Solution {
     public String complexNumberMultiply(String a, String b) {
         String x[] = a.split("\\+|i");
         String y[] = b.split("\\+|i");
+        for(String st : x)
+        System.out.println(st);
         int a_real = Integer.parseInt(x[0]);
         int a_img = Integer.parseInt(x[1]);
         int b_real = Integer.parseInt(y[0]);
@@ -12,3 +14,9 @@ public class Solution {
 
     }
 }
+
+/*
+  Spiting the real and imaginary parts 
+        of the given complex strings based on '+' 
+         and 'i' symbols. 
+*/
