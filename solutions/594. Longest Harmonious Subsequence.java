@@ -12,3 +12,14 @@ class Solution {
        
     }
 }
+
+
+
+/*
+ make use of a hashmap mapmap which stores the number of times an element occurs in the array along with the element's value  
+
+ we traverse over the keys of the mapmap  For every key of the mapmap considered,  find out if the map contains the key + 1. 
+ whenver we find that key + 1 exists in the keys of mapmap, we determine the count of the current harmonic subsequence as count_{key} + count_{key+1}count 
+
+  
+*/
