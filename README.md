@@ -99,3 +99,4 @@
 |1480|[ Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Java](./solutions/1480.%20Running%20Sum%20of%201d%20Array.java)|0 ms|
 |1486|[ XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Java](./solutions/1486.%20XOR%20Operation%20in%20an%20Array.java)|0 ms|
 |1496|[ Path Crossing](https://leetcode.com/problems/path-crossing/)|[Java](./solutions/1496.%20Path%20Crossing.java)|6 ms|
+|1512|[ Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Java](./solutions/1512.%20Number%20of%20Good%20Pairs.java)|1 ms|
