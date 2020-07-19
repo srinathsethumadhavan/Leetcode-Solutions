@@ -43,4 +43,22 @@ a[k+1] to a[nums.length-1] -------------------->largest decreasing suffix
 find the fisrt largest element than nums[k].
 swap arr[k] and arr[l];
 reverse the array from k+1 to last
+
+
+
+
+
+[6,2,1,5,4,3,0]    initila permutation
+
+[6,2,3,5,4,1,0]  after swap nums[k] with nums[l]
+
+[6,2,3,0,1,4,5]  after reversing nums[k+1] to last; 
+
+
+
+
+
+
+
+
 */
