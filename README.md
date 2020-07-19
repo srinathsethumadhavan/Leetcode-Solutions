@@ -41,6 +41,7 @@
 |187|[ Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[Java](./solutions/187.%20Repeated%20DNA%20Sequences.java)|62 ms|
 |204|[ Count Primes](https://leetcode.com/problems/count-primes/)|[Java](./solutions/204.%20Count%20Primes.java)|18 ms|
 |205|[ Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Java](./solutions/205.%20Isomorphic%20Strings.java)|10 ms|
+|209|[ Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Java](./solutions/209.%20Minimum%20Size%20Subarray%20Sum.java)|1 ms|
 |215|[ Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Java](./solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.java)|8 ms|
 |219|[ Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Java](./solutions/219.%20Contains%20Duplicate%20II.java)|5 ms|
 |226|[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Java](./solutions/226.%20Invert%20Binary%20Tree.java)|0 ms|
