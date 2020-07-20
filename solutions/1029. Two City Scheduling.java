@@ -21,6 +21,9 @@ class Sortbydiff implements Comparator<int[]>{
 } 
 
 /*
+
+ALGORITHM
+
 How much money can we save if we fly a person to A vs. B? To minimize the total cost, we should fly the person with the maximum saving to A, and with the minimum - to B.
 
 P1 [10, 20] -> 10 - 20 = -10 
