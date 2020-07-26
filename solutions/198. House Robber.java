@@ -15,4 +15,9 @@ class Solution {
     }
         return dp[dp.length-1];
 }
-    }
+    }
+​
+/*
+​
+the dp array contains the maximum till (i)th house
+*/
