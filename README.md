@@ -95,6 +95,7 @@
 |908|[ Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[Java](./solutions/908.%20Smallest%20Range%20I.java)|2 ms|
 |918|[ Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[Java](./solutions/918.%20Maximum%20Sum%20Circular%20Subarray.java)|2 ms|
 |944|[ Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|[Java](./solutions/944.%20Delete%20Columns%20to%20Make%20Sorted.java)|16 ms|
+|948|[ Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)|[Java](./solutions/948.%20Bag%20of%20Tokens.java)|4 ms|
 |953|[ Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[Java](./solutions/953.%20Verifying%20an%20Alien%20Dictionary.java)|0 ms|
 |954|[ Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[Java](./solutions/954.%20Array%20of%20Doubled%20Pairs.java)|205 ms|
 |989|[ Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Java](./solutions/989.%20Add%20to%20Array-Form%20of%20Integer.java)|48 ms|
