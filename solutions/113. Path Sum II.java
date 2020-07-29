@@ -14,13 +14,14 @@
  * }
  */
 class Solution {
+    List<List<Integer>> paths = new ArrayList<>();
     public List<List<Integer>> pathSum(TreeNode root, int sum) {
-        List<List<Integer>> paths = new ArrayList<>();
-         findPaths(root,paths,new ArrayList<>(),sum);
+        
+         findPaths(root,new ArrayList<>(),sum);
         return paths;
     }
     
-    public void findPaths(TreeNode root,List<List<Integer>> paths,List<Integer> current,int sum){
+    public void findPaths(TreeNode root,List<Integer> current,int sum){
         if(root==null)
             return ;
         current.add(root.val);
@@ -30,7 +31,7 @@ class Solution {
             return;
         }
         
-        findPaths(root.left,paths,new ArrayList<>(current),sum-root.val);
-        findPaths(root.right,paths,new ArrayList<>(current),sum-root.val);
+        findPaths(root.left,new ArrayList<>(current),sum-root.val);
+        findPaths(root.right,new ArrayList<>(current),sum-root.val);
     }
 }
