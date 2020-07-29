@@ -97,6 +97,7 @@
 |881|[ Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Java](./solutions/881.%20Boats%20to%20Save%20People.java)|20 ms|
 |885|[ Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)|[Java](./solutions/885.%20Spiral%20Matrix%20III.java)|9 ms|
 |888|[ Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)|[Java](./solutions/888.%20Fair%20Candy%20Swap.java)|15 ms|
+|897|[ Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[Java](./solutions/897.%20Increasing%20Order%20Search%20Tree.java)|0 ms|
 |908|[ Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[Java](./solutions/908.%20Smallest%20Range%20I.java)|2 ms|
 |918|[ Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[Java](./solutions/918.%20Maximum%20Sum%20Circular%20Subarray.java)|2 ms|
 |944|[ Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|[Java](./solutions/944.%20Delete%20Columns%20to%20Make%20Sorted.java)|16 ms|
