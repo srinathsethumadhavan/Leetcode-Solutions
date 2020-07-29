@@ -39,3 +39,7 @@ class Solution {
         }
     
 }
+​
+/*
+we can do any tevaersal in this problem
+*/
