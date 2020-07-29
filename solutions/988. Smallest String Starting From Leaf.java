@@ -14,20 +14,28 @@
  * }
  */
 class Solution {
+    String ans ="~";
     public String smallestFromLeaf(TreeNode root) {
-    
-       List<StringBuffer> list = new ArrayList<>();
-        findPaths(root,list,new StringBuffer());
-        Collections.sort(list);       
-        return list.get(0).toString();
+        
+       
+        findPaths(root,new StringBuffer());
+               
+        return ans;
     }
-    public void findPaths(TreeNode root, List<StringBuffer> list,StringBuffer sb){
+    public void findPaths(TreeNode root, StringBuffer sb){
         if(root==null)
             return ;
         sb.append((char)(root.val+'a')+"");
+        
         if(root.left==null && root.right==null)
-            list.add(sb.reverse());
-        findPaths(root.left,list,new StringBuffer(sb));
-         findPaths(root.right,list,new StringBuffer(sb));
+        {
+           
+            sb.reverse();
+        String temp = sb.toString();
+            if(temp.compareTo(ans)<0)
+                ans=temp;
+        }
+        findPaths(root.left,new StringBuffer(sb));
+         findPaths(root.right,new StringBuffer(sb));
         }    
 }
