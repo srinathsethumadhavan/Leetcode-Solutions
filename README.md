@@ -101,7 +101,7 @@
 |948|[ Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)|[Java](./solutions/948.%20Bag%20of%20Tokens.java)|4 ms|
 |953|[ Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[Java](./solutions/953.%20Verifying%20an%20Alien%20Dictionary.java)|0 ms|
 |954|[ Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[Java](./solutions/954.%20Array%20of%20Doubled%20Pairs.java)|205 ms|
-|988|[ Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)|[Java](./solutions/988.%20Smallest%20String%20Starting%20From%20Leaf.java)|23 ms|
+|988|[ Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)|[Java](./solutions/988.%20Smallest%20String%20Starting%20From%20Leaf.java)|8 ms|
 |989|[ Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Java](./solutions/989.%20Add%20to%20Array-Form%20of%20Integer.java)|48 ms|
 |991|[ Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Java](./solutions/991.%20Broken%20Calculator.java)|0 ms|
 |1010|[ Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Java](./solutions/1010.%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.java)|22 ms|
