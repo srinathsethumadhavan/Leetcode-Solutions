@@ -41,7 +41,7 @@
 |107|[ Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Java](./solutions/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.java)|3 ms|
 |111|[ Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Java](./solutions/111.%20Minimum%20Depth%20of%20Binary%20Tree.java)|0 ms|
 |112|[ Path Sum](https://leetcode.com/problems/path-sum/)|[Java](./solutions/112.%20Path%20Sum.java)|0 ms|
-|113|[ Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Java](./solutions/113.%20Path%20Sum%20II.java)|3 ms|
+|113|[ Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Java](./solutions/113.%20Path%20Sum%20II.java)|7 ms|
 |125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](./solutions/125.%20Valid%20Palindrome.java)|5 ms|
 |129|[ Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Java](./solutions/129.%20Sum%20Root%20to%20Leaf%20Numbers.java)|0 ms|
 |155|[ Min Stack](https://leetcode.com/problems/min-stack/)|[Java](./solutions/155.%20Min%20Stack.java)|11 ms|
