@@ -93,6 +93,7 @@
 |844|[ Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Java](./solutions/844.%20Backspace%20String%20Compare.java)|4 ms|
 |859|[ Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[Java](./solutions/859.%20Buddy%20Strings.java)|8 ms|
 |860|[ Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[Java](./solutions/860.%20Lemonade%20Change.java)|1 ms|
+|872|[ Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Java](./solutions/872.%20Leaf-Similar%20Trees.java)|0 ms|
 |881|[ Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Java](./solutions/881.%20Boats%20to%20Save%20People.java)|20 ms|
 |885|[ Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)|[Java](./solutions/885.%20Spiral%20Matrix%20III.java)|9 ms|
 |888|[ Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)|[Java](./solutions/888.%20Fair%20Candy%20Swap.java)|15 ms|
