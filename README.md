@@ -138,6 +138,7 @@
 |1486|[ XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Java](./solutions/1486.%20XOR%20Operation%20in%20an%20Array.java)|0 ms|
 |1496|[ Path Crossing](https://leetcode.com/problems/path-crossing/)|[Java](./solutions/1496.%20Path%20Crossing.java)|6 ms|
 |1507|[ Reformat Date](https://leetcode.com/problems/reformat-date/)|[Java](./solutions/1507.%20Reformat%20Date.java)|10 ms|
+|1508|[ Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/)|[Java](./solutions/1508.%20Range%20Sum%20of%20Sorted%20Subarray%20Sums.java)|85 ms|
 |1512|[ Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Java](./solutions/1512.%20Number%20of%20Good%20Pairs.java)|1 ms|
 |1518|[ Water Bottles](https://leetcode.com/problems/water-bottles/)|[Java](./solutions/1518.%20Water%20Bottles.java)|0 ms|
 |1528|[ Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Java](./solutions/1528.%20Shuffle%20String.java)|1 ms|
