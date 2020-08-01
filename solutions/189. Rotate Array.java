@@ -16,12 +16,12 @@ if(nums.length<k)
 {
     int temp;
     while(i<j)
-    {
+    {
        temp=a[i];
         a[i]=a[j];
         a[j]=temp;
         i++;
         j--;
-    }
+    }
 }
 }
