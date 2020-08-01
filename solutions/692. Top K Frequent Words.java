@@ -5,7 +5,7 @@ class Solution {
         
         for(String s: words){
             map.put(s,map.getOrDefault(s,0)+1);
-        }
+        }
         PriorityQueue<String> maxHeap = new PriorityQueue<>(new myComparator());   
         maxHeap.addAll(map.keySet());
         int i=0;
