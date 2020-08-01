@@ -63,6 +63,7 @@
 |257|[ Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Java](./solutions/257.%20Binary%20Tree%20Paths.java)|19 ms|
 |283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](./solutions/283.%20Move%20Zeroes.java)|0 ms|
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[Java](./solutions/344.%20Reverse%20String.java)|0 ms|
+|387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Java](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.java)|4 ms|
 |389|[ Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Java](./solutions/389.%20Find%20the%20Difference.java)|2 ms|
 |392|[ Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Java](./solutions/392.%20Is%20Subsequence.java)|0 ms|
 |404|[ Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Java](./solutions/404.%20Sum%20of%20Left%20Leaves.java)|0 ms|
