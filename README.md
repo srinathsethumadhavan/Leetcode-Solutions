@@ -75,7 +75,7 @@
 |541|[ Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[Java](./solutions/541.%20Reverse%20String%20II.java)|1 ms|
 |543|[ Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Java](./solutions/543.%20Diameter%20of%20Binary%20Tree.java)|10 ms|
 |557|[ Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Java](./solutions/557.%20Reverse%20Words%20in%20a%20String%20III.java)|15 ms|
-|560|[ Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Java](./solutions/560.%20Subarray%20Sum%20Equals%20K.java)|23 ms|
+|560|[ Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Java](./solutions/560.%20Subarray%20Sum%20Equals%20K.java)|12 ms|
 |565|[ Array Nesting](https://leetcode.com/problems/array-nesting/)|[Java](./solutions/565.%20Array%20Nesting.java)|3 ms|
 |575|[ Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[Java](./solutions/575.%20Distribute%20Candies.java)|42 ms|
 |594|[ Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Java](./solutions/594.%20Longest%20Harmonious%20Subsequence.java)|16 ms|
