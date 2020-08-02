@@ -122,6 +122,7 @@
 |991|[ Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Java](./solutions/991.%20Broken%20Calculator.java)|0 ms|
 |1010|[ Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Java](./solutions/1010.%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.java)|22 ms|
 |1029|[ Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[Java](./solutions/1029.%20Two%20City%20Scheduling.java)|1 ms|
+|1054|[ Distant Barcodes](https://leetcode.com/problems/distant-barcodes/)|[Java](./solutions/1054.%20Distant%20Barcodes.java)|57 ms|
 |1161|[ Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[Java](./solutions/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.java)|7 ms|
 |1221|[ Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Java](./solutions/1221.%20Split%20a%20String%20in%20Balanced%20Strings.java)|1 ms|
 |1295|[ Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Java](./solutions/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.java)|3 ms|
