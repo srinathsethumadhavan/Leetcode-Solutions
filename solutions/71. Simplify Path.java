@@ -9,7 +9,8 @@ class Solution {
                 stack.push(s);
         }
         ArrayList<String> list = new ArrayList<>(stack);
-        System.out.println(list);
+        
+        
         return "/"+String.join("/",list);
     }
 }
