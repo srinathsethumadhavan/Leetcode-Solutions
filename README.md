@@ -157,3 +157,4 @@
 |1512|[ Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Java](./solutions/1512.%20Number%20of%20Good%20Pairs.java)|1 ms|
 |1518|[ Water Bottles](https://leetcode.com/problems/water-bottles/)|[Java](./solutions/1518.%20Water%20Bottles.java)|0 ms|
 |1528|[ Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Java](./solutions/1528.%20Shuffle%20String.java)|1 ms|
+|1534|[ Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)|[Java](./solutions/1534.%20Count%20Good%20Triplets.java)|10 ms|
