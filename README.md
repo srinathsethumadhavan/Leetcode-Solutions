@@ -52,6 +52,7 @@
 |152|[ Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Java](./solutions/152.%20Maximum%20Product%20Subarray.java)|4 ms|
 |155|[ Min Stack](https://leetcode.com/problems/min-stack/)|[Java](./solutions/155.%20Min%20Stack.java)|11 ms|
 |167|[ Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Java](./solutions/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.java)|1 ms|
+|172|[ Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[Java](./solutions/172.%20Factorial%20Trailing%20Zeroes.java)|0 ms|
 |187|[ Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[Java](./solutions/187.%20Repeated%20DNA%20Sequences.java)|62 ms|
 |198|[ House Robber](https://leetcode.com/problems/house-robber/)|[Java](./solutions/198.%20House%20Robber.java)|0 ms|
 |204|[ Count Primes](https://leetcode.com/problems/count-primes/)|[Java](./solutions/204.%20Count%20Primes.java)|18 ms|
