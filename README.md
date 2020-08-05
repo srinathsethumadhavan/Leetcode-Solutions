@@ -149,6 +149,7 @@
 |1395|[ Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)|[Java](./solutions/1395.%20Count%20Number%20of%20Teams.java)|15 ms|
 |1399|[ Count Largest Group](https://leetcode.com/problems/count-largest-group/)|[Java](./solutions/1399.%20Count%20Largest%20Group.java)|16 ms|
 |1408|[ String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)|[Java](./solutions/1408.%20String%20Matching%20in%20an%20Array.java)|4 ms|
+|1410|[ HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/)|[Java](./solutions/1410.%20HTML%20Entity%20Parser.java)|19 ms|
 |1417|[ Reformat The String](https://leetcode.com/problems/reformat-the-string/)|[Java](./solutions/1417.%20Reformat%20The%20String.java)|15 ms|
 |1431|[ Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Java](./solutions/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.java)|1 ms|
 |1436|[ Destination City](https://leetcode.com/problems/destination-city/)|[Java](./solutions/1436.%20Destination%20City.java)|2 ms|
