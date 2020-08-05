@@ -10,14 +10,14 @@ class Solution {
         set.add(Arrays.toString(countp));
         
         for(int i=0;i<s.length()-p.length()+1;i++)
-        {
+        {
             int[] count = new int[26];
             for(int j=0;j<p.length();j++)
               count[s.charAt(j+i)-'a']++;             
            
             if(set.contains(Arrays.toString(count)))
                 list.add(i);
-        }
+        }
             return list;
     }
     
