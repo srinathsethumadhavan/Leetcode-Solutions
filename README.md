@@ -141,6 +141,7 @@
 |1295|[ Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Java](./solutions/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.java)|3 ms|
 |1313|[ Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Java](./solutions/1313.%20Decompress%20Run-Length%20Encoded%20List.java)|3 ms|
 |1332|[ Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[Java](./solutions/1332.%20Remove%20Palindromic%20Subsequences.java)|0 ms|
+|1333|[ Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)|[Java](./solutions/1333.%20Filter%20Restaurants%20by%20Vegan-Friendly%2C%20Price%20and%20Distance.java)|4 ms|
 |1338|[ Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)|[Java](./solutions/1338.%20Reduce%20Array%20Size%20to%20The%20Half.java)|26 ms|
 |1347|[ Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)|[Java](./solutions/1347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.java)|13 ms|
 |1351|[ Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Java](./solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.java)|1 ms|
