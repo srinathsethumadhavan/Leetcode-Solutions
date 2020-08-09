@@ -96,6 +96,7 @@
 |575|[ Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[Java](./solutions/575.%20Distribute%20Candies.java)|42 ms|
 |593|[ Valid Square](https://leetcode.com/problems/valid-square/)|[Java](./solutions/593.%20Valid%20Square.java)|3 ms|
 |594|[ Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Java](./solutions/594.%20Longest%20Harmonious%20Subsequence.java)|16 ms|
+|598|[ Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[Java](./solutions/598.%20Range%20Addition%20II.java)|0 ms|
 |606|[ Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[Java](./solutions/606.%20Construct%20String%20from%20Binary%20Tree.java)|40 ms|
 |621|[ Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Java](./solutions/621.%20Task%20Scheduler.java)|26 ms|
 |633|[ Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[Java](./solutions/633.%20Sum%20of%20Square%20Numbers.java)|3 ms|
