@@ -161,7 +161,7 @@
 |1417|[ Reformat The String](https://leetcode.com/problems/reformat-the-string/)|[Java](./solutions/1417.%20Reformat%20The%20String.java)|15 ms|
 |1431|[ Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Java](./solutions/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.java)|1 ms|
 |1436|[ Destination City](https://leetcode.com/problems/destination-city/)|[Java](./solutions/1436.%20Destination%20City.java)|2 ms|
-|1447|[ Simplified Fractions](https://leetcode.com/problems/simplified-fractions/)|[Java](./solutions/1447.%20Simplified%20Fractions.java)|26 ms|
+|1447|[ Simplified Fractions](https://leetcode.com/problems/simplified-fractions/)|[Java](./solutions/1447.%20Simplified%20Fractions.java)|24 ms|
 |1450|[ Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)|[Java](./solutions/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time.java)|0 ms|
 |1451|[ Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/)|[Java](./solutions/1451.%20Rearrange%20Words%20in%20a%20Sentence.java)|27 ms|
 |1464|[ Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[Java](./solutions/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.java)|1 ms|
