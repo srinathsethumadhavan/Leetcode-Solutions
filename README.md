@@ -98,6 +98,7 @@
 |594|[ Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Java](./solutions/594.%20Longest%20Harmonious%20Subsequence.java)|16 ms|
 |606|[ Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[Java](./solutions/606.%20Construct%20String%20from%20Binary%20Tree.java)|40 ms|
 |621|[ Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Java](./solutions/621.%20Task%20Scheduler.java)|26 ms|
+|633|[ Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[Java](./solutions/633.%20Sum%20of%20Square%20Numbers.java)|3 ms|
 |637|[ Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Java](./solutions/637.%20Average%20of%20Levels%20in%20Binary%20Tree.java)|1 ms|
 |643|[ Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[Java](./solutions/643.%20Maximum%20Average%20Subarray%20I.java)|2 ms|
 |657|[ Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Java](./solutions/657.%20Robot%20Return%20to%20Origin.java)|9 ms|
