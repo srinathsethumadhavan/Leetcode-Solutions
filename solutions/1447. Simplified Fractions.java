@@ -6,7 +6,7 @@ class Solution {
         double d = (double)0;
         for(int i=1;i<n;i++){
             for(int j =2;j<=n;j++)
-            {
+            {
                 if(i/j!=1 && i<j)
                     
                {
@@ -20,10 +20,17 @@ class Solution {
                    
                 }
                     
-        }
+        }
         }
         
         return list;
         
     }
 }
+​
+/*
+we need to check if the i/j becomes 1 . we should not include it. 1 is not afraction
+then also we should check if i< j  eg: 4/2 is not a fraction. it  is a whole number 
+we need only fractions
+​
+*/
