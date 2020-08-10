@@ -1,13 +1,12 @@
 class Solution {
-    public int numSub(String s) {
-        String [] ones = s.split("0++");
-        long total=0;
-        long n =0;
-        for(int i=0;i<ones.length;i++){
-            
-            n = ones[i].length();
-            total+= (n*(n+1))/2;
-        }
-        return (int)(total%1000000007);
+    
+       public int numSub(String s) {
+        int res = 0, count = 0, mod = (int)1e9 + 7;
+        for (int i = 0; i < s.length(); ++i) {
+            count = s.charAt(i) == '1' ? count + 1 : 0;
+            res = (res + count) % mod;
+        }
+        return res;
+    
     }
 }
