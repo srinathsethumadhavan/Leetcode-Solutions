@@ -160,6 +160,7 @@
 |1408|[ String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)|[Java](./solutions/1408.%20String%20Matching%20in%20an%20Array.java)|4 ms|
 |1410|[ HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/)|[Java](./solutions/1410.%20HTML%20Entity%20Parser.java)|19 ms|
 |1417|[ Reformat The String](https://leetcode.com/problems/reformat-the-string/)|[Java](./solutions/1417.%20Reformat%20The%20String.java)|15 ms|
+|1422|[ Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)|[Java](./solutions/1422.%20Maximum%20Score%20After%20Splitting%20a%20String.java)|10 ms|
 |1431|[ Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Java](./solutions/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.java)|1 ms|
 |1436|[ Destination City](https://leetcode.com/problems/destination-city/)|[Java](./solutions/1436.%20Destination%20City.java)|2 ms|
 |1447|[ Simplified Fractions](https://leetcode.com/problems/simplified-fractions/)|[Java](./solutions/1447.%20Simplified%20Fractions.java)|25 ms|
