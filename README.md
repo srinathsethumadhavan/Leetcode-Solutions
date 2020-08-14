@@ -94,6 +94,7 @@
 |557|[ Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Java](./solutions/557.%20Reverse%20Words%20in%20a%20String%20III.java)|15 ms|
 |560|[ Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Java](./solutions/560.%20Subarray%20Sum%20Equals%20K.java)|12 ms|
 |565|[ Array Nesting](https://leetcode.com/problems/array-nesting/)|[Java](./solutions/565.%20Array%20Nesting.java)|3 ms|
+|567|[ Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[Java](./solutions/567.%20Permutation%20in%20String.java)|3 ms|
 |575|[ Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[Java](./solutions/575.%20Distribute%20Candies.java)|42 ms|
 |593|[ Valid Square](https://leetcode.com/problems/valid-square/)|[Java](./solutions/593.%20Valid%20Square.java)|3 ms|
 |594|[ Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Java](./solutions/594.%20Longest%20Harmonious%20Subsequence.java)|16 ms|
