@@ -184,3 +184,4 @@
 |1523|[ Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)|[Java](./solutions/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.java)|0 ms|
 |1528|[ Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Java](./solutions/1528.%20Shuffle%20String.java)|1 ms|
 |1534|[ Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)|[Java](./solutions/1534.%20Count%20Good%20Triplets.java)|10 ms|
+|1539|[ Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)|[Java](./solutions/1539.%20Kth%20Missing%20Positive%20Number.java)|0 ms|
