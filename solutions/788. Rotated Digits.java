@@ -6,9 +6,9 @@ class Solution {
         {   
             s = i+"";
             if(s.contains("3")||s.contains("4")||s.contains("7"))
-           continue;
-        if(s.contains("2")||s.contains("5")||s.contains("6")||s.contains("9"))
-            count++;
+                continue;
+            if(s.contains("2")||s.contains("5")||s.contains("6")||s.contains("9"))
+                count++;
         }
         return count;
     }
