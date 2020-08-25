@@ -87,6 +87,7 @@
 |482|[ License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[Java](./solutions/482.%20License%20Key%20Formatting.java)|94 ms|
 |503|[ Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Java](./solutions/503.%20Next%20Greater%20Element%20II.java)|7 ms|
 |520|[ Detect Capital](https://leetcode.com/problems/detect-capital/)|[Java](./solutions/520.%20Detect%20Capital.java)|2 ms|
+|521|[ Longest Uncommon Subsequence I ](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[Java](./solutions/521.%20Longest%20Uncommon%20Subsequence%20I%20.java)|0 ms|
 |523|[ Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[Java](./solutions/523.%20Continuous%20Subarray%20Sum.java)|16 ms|
 |524|[ Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[Java](./solutions/524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting.java)|17 ms|
 |537|[ Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)|[Java](./solutions/537.%20Complex%20Number%20Multiplication.java)|9 ms|
