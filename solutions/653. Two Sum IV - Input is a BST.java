@@ -15,26 +15,36 @@
  */
 class Solution {
     ArrayList<Integer> list = new ArrayList<>();
-    HashSet<Integer> set = new HashSet<>();
+   
     public boolean findTarget(TreeNode root, int k) {
-        preOrder(root);
-     int target = 0;
-        set.addAll(list);         
-        for(int l : list)
-        {
-            target= k-l;  
-            set.remove(l);
-            if(set.contains(target))
+         inOrder(root);
+        int i=0;
+        int j=list.size()-1;
+        int sum =0;
+        while(list.get(i)<list.get(j)){
+            sum = list.get(i)+list.get(j);
+            if(sum==k)
                 return true;
-        }
-           return false;
+            else if(sum<k)
+                i++;
+            else
+                j--;    
+        }
+        return false;
+     
     }
-    public void preOrder(TreeNode root){
+    public void inOrder(TreeNode root){
         if(root!=null)
         {
+            inOrder(root.left);
             list.add(root.val);
-            preOrder(root.left);
-            preOrder(root.right);
+           inOrder(root.right);
         }
     }
 }
+​
+​
+/*
+Inorder traversal gives the sorted list
+then we can use two pointer apporach since we have sorted list
+*/
