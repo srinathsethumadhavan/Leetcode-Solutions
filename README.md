@@ -191,6 +191,6 @@
 |1528|[ Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Java](./solutions/1528.%20Shuffle%20String.java)|1 ms|
 |1534|[ Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)|[Java](./solutions/1534.%20Count%20Good%20Triplets.java)|10 ms|
 |1539|[ Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)|[Java](./solutions/1539.%20Kth%20Missing%20Positive%20Number.java)|0 ms|
-|1545|[ Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)|[Java](./solutions/1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String.java)|207 ms|
+|1545|[ Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)|[Java](./solutions/1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String.java)|74 ms|
 |1550|[ Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[Java](./solutions/1550.%20Three%20Consecutive%20Odds.java)|0 ms|
 |1556|[ Thousand Separator](https://leetcode.com/problems/thousand-separator/)|[Java](./solutions/1556.%20Thousand%20Separator.java)|7 ms|
