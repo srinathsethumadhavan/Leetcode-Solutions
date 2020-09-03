@@ -92,6 +92,7 @@
 |463|[ Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Java](./solutions/463.%20Island%20Perimeter.java)|8 ms|
 |482|[ License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[Java](./solutions/482.%20License%20Key%20Formatting.java)|94 ms|
 |503|[ Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Java](./solutions/503.%20Next%20Greater%20Element%20II.java)|7 ms|
+|515|[ Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Java](./solutions/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row.java)|1 ms|
 |520|[ Detect Capital](https://leetcode.com/problems/detect-capital/)|[Java](./solutions/520.%20Detect%20Capital.java)|2 ms|
 |521|[ Longest Uncommon Subsequence I ](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[Java](./solutions/521.%20Longest%20Uncommon%20Subsequence%20I%20.java)|0 ms|
 |523|[ Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[Java](./solutions/523.%20Continuous%20Subarray%20Sum.java)|16 ms|
