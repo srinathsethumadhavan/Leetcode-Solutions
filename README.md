@@ -122,6 +122,7 @@
 |744|[ Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Java](./solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.java)|0 ms|
 |763|[ Partition Labels](https://leetcode.com/problems/partition-labels/)|[Java](./solutions/763.%20Partition%20Labels.java)|2 ms|
 |767|[ Reorganize String](https://leetcode.com/problems/reorganize-string/)|[Java](./solutions/767.%20Reorganize%20String.java)|5 ms|
+|775|[ Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/)|[Java](./solutions/775.%20Global%20and%20Local%20Inversions.java)|1 ms|
 |788|[ Rotated Digits](https://leetcode.com/problems/rotated-digits/)|[Java](./solutions/788.%20Rotated%20Digits.java)|16 ms|
 |791|[ Custom Sort String](https://leetcode.com/problems/custom-sort-string/)|[Java](./solutions/791.%20Custom%20Sort%20String.java)|4 ms|
 |796|[ Rotate String](https://leetcode.com/problems/rotate-string/)|[Java](./solutions/796.%20Rotate%20String.java)|0 ms|
