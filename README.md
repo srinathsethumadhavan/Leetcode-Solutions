@@ -159,6 +159,7 @@
 |1015|[ Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)|[Java](./solutions/1015.%20Smallest%20Integer%20Divisible%20by%20K.java)|1 ms|
 |1018|[ Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)|[Java](./solutions/1018.%20Binary%20Prefix%20Divisible%20By%205.java)|3 ms|
 |1029|[ Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[Java](./solutions/1029.%20Two%20City%20Scheduling.java)|1 ms|
+|1030|[ Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)|[Java](./solutions/1030.%20Matrix%20Cells%20in%20Distance%20Order.java)|13 ms|
 |1054|[ Distant Barcodes](https://leetcode.com/problems/distant-barcodes/)|[Java](./solutions/1054.%20Distant%20Barcodes.java)|57 ms|
 |1109|[ Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/)|[Java](./solutions/1109.%20Corporate%20Flight%20Bookings.java)|1305 ms|
 |1161|[ Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[Java](./solutions/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.java)|7 ms|
