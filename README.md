@@ -164,6 +164,7 @@
 |1109|[ Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/)|[Java](./solutions/1109.%20Corporate%20Flight%20Bookings.java)|1305 ms|
 |1161|[ Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[Java](./solutions/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.java)|7 ms|
 |1221|[ Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Java](./solutions/1221.%20Split%20a%20String%20in%20Balanced%20Strings.java)|1 ms|
+|1290|[ Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Java](./solutions/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.java)|0 ms|
 |1295|[ Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Java](./solutions/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.java)|3 ms|
 |1313|[ Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Java](./solutions/1313.%20Decompress%20Run-Length%20Encoded%20List.java)|3 ms|
 |1332|[ Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[Java](./solutions/1332.%20Remove%20Palindromic%20Subsequences.java)|0 ms|
