@@ -160,6 +160,7 @@
 |988|[ Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)|[Java](./solutions/988.%20Smallest%20String%20Starting%20From%20Leaf.java)|8 ms|
 |989|[ Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Java](./solutions/989.%20Add%20to%20Array-Form%20of%20Integer.java)|48 ms|
 |991|[ Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Java](./solutions/991.%20Broken%20Calculator.java)|0 ms|
+|994|[ Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Java](./solutions/994.%20Rotting%20Oranges.java)|4 ms|
 |1010|[ Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Java](./solutions/1010.%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.java)|22 ms|
 |1015|[ Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)|[Java](./solutions/1015.%20Smallest%20Integer%20Divisible%20by%20K.java)|1 ms|
 |1018|[ Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)|[Java](./solutions/1018.%20Binary%20Prefix%20Divisible%20By%205.java)|3 ms|
