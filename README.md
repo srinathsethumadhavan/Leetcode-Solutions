@@ -212,3 +212,4 @@
 |1545|[ Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)|[Java](./solutions/1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String.java)|74 ms|
 |1550|[ Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[Java](./solutions/1550.%20Three%20Consecutive%20Odds.java)|0 ms|
 |1556|[ Thousand Separator](https://leetcode.com/problems/thousand-separator/)|[Java](./solutions/1556.%20Thousand%20Separator.java)|7 ms|
+|1557|[ Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)|[Java](./solutions/1557.%20Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes.java)|9 ms|
