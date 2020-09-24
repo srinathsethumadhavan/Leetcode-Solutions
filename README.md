@@ -213,3 +213,4 @@
 |1550|[ Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[Java](./solutions/1550.%20Three%20Consecutive%20Odds.java)|0 ms|
 |1556|[ Thousand Separator](https://leetcode.com/problems/thousand-separator/)|[Java](./solutions/1556.%20Thousand%20Separator.java)|7 ms|
 |1557|[ Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)|[Java](./solutions/1557.%20Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes.java)|9 ms|
+|1576|[ Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/)|[Java](./solutions/1576.%20Replace%20All%20%3F's%20to%20Avoid%20Consecutive%20Repeating%20Characters.java)|1 ms|
