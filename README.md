@@ -129,6 +129,7 @@
 |701|[ Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Java](./solutions/701.%20Insert%20into%20a%20Binary%20Search%20Tree.java)|0 ms|
 |709|[ To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Java](./solutions/709.%20To%20Lower%20Case.java)|0 ms|
 |713|[ Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[Java](./solutions/713.%20Subarray%20Product%20Less%20Than%20K.java)|7 ms|
+|738|[ Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)|[Java](./solutions/738.%20Monotone%20Increasing%20Digits.java)|5 ms|
 |739|[ Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Java](./solutions/739.%20Daily%20Temperatures.java)|1365 ms|
 |744|[ Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Java](./solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.java)|0 ms|
 |762|[ Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|[Java](./solutions/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation.java)|32 ms|
