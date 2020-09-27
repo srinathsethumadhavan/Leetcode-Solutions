@@ -164,7 +164,7 @@
 |954|[ Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[Java](./solutions/954.%20Array%20of%20Doubled%20Pairs.java)|205 ms|
 |969|[ Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)|[Java](./solutions/969.%20Pancake%20Sorting.java)|2 ms|
 |988|[ Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)|[Java](./solutions/988.%20Smallest%20String%20Starting%20From%20Leaf.java)|8 ms|
-|989|[ Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Java](./solutions/989.%20Add%20to%20Array-Form%20of%20Integer.java)|48 ms|
+|989|[ Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Java](./solutions/989.%20Add%20to%20Array-Form%20of%20Integer.java)|3 ms|
 |991|[ Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Java](./solutions/991.%20Broken%20Calculator.java)|0 ms|
 |994|[ Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Java](./solutions/994.%20Rotting%20Oranges.java)|4 ms|
 |997|[ Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[Java](./solutions/997.%20Find%20the%20Town%20Judge.java)|2 ms|
