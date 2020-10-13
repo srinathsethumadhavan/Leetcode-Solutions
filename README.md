@@ -159,6 +159,7 @@
 |897|[ Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[Java](./solutions/897.%20Increasing%20Order%20Search%20Tree.java)|0 ms|
 |908|[ Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[Java](./solutions/908.%20Smallest%20Range%20I.java)|2 ms|
 |918|[ Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[Java](./solutions/918.%20Maximum%20Sum%20Circular%20Subarray.java)|2 ms|
+|921|[ Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Java](./solutions/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.java)|0 ms|
 |938|[ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Java](./solutions/938.%20Range%20Sum%20of%20BST.java)|0 ms|
 |944|[ Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|[Java](./solutions/944.%20Delete%20Columns%20to%20Make%20Sorted.java)|16 ms|
 |948|[ Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)|[Java](./solutions/948.%20Bag%20of%20Tokens.java)|4 ms|
