@@ -88,6 +88,7 @@
 |289|[ Game of Life](https://leetcode.com/problems/game-of-life/)|[Java](./solutions/289.%20Game%20of%20Life.java)|0 ms|
 |297|[ Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Java](./solutions/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.java)|23 ms|
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[Java](./solutions/344.%20Reverse%20String.java)|0 ms|
+|373|[ Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)|[Java](./solutions/373.%20Find%20K%20Pairs%20with%20Smallest%20Sums.java)|121 ms|
 |387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Java](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.java)|4 ms|
 |389|[ Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Java](./solutions/389.%20Find%20the%20Difference.java)|2 ms|
 |392|[ Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Java](./solutions/392.%20Is%20Subsequence.java)|0 ms|
