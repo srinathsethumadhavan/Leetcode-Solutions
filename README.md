@@ -196,6 +196,7 @@
 |1389|[ Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[Java](./solutions/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order.java)|0 ms|
 |1395|[ Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)|[Java](./solutions/1395.%20Count%20Number%20of%20Teams.java)|15 ms|
 |1399|[ Count Largest Group](https://leetcode.com/problems/count-largest-group/)|[Java](./solutions/1399.%20Count%20Largest%20Group.java)|16 ms|
+|1403|[ Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)|[Java](./solutions/1403.%20Minimum%20Subsequence%20in%20Non-Increasing%20Order.java)|3 ms|
 |1408|[ String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)|[Java](./solutions/1408.%20String%20Matching%20in%20an%20Array.java)|4 ms|
 |1410|[ HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/)|[Java](./solutions/1410.%20HTML%20Entity%20Parser.java)|19 ms|
 |1417|[ Reformat The String](https://leetcode.com/problems/reformat-the-string/)|[Java](./solutions/1417.%20Reformat%20The%20String.java)|15 ms|
