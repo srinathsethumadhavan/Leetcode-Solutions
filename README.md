@@ -206,6 +206,7 @@
 |1447|[ Simplified Fractions](https://leetcode.com/problems/simplified-fractions/)|[Java](./solutions/1447.%20Simplified%20Fractions.java)|25 ms|
 |1450|[ Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)|[Java](./solutions/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time.java)|0 ms|
 |1451|[ Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/)|[Java](./solutions/1451.%20Rearrange%20Words%20in%20a%20Sentence.java)|27 ms|
+|1452|[ People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/)|[Java](./solutions/1452.%20People%20Whose%20List%20of%20Favorite%20Companies%20Is%20Not%20a%20Subset%20of%20Another%20List.java)|20 ms|
 |1464|[ Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[Java](./solutions/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.java)|1 ms|
 |1470|[ Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Java](./solutions/1470.%20Shuffle%20the%20Array.java)|0 ms|
 |1475|[ Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)|[Java](./solutions/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.java)|2 ms|
